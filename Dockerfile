@@ -1,4 +1,4 @@
-FROM golang:1.6.2
+FROM golang:latest
 MAINTAINER Mattia Scalvini <matsca09@gmail.com>
 
 COPY run.sh /run.sh
